@@ -1,2 +1,0 @@
-# firstgit
-hellow word
